@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(253, 0, 0);
+    margin: 20;
+    padding: 20px;
+}
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    background-color: rgb(255, 253, 253);
+    padding: 30px;
+}
+h1 {
+    text-align: center;
+    color: rgb(13, 16, 185);
+}
+img{
+    border-radius:50%;
+}
+p{
+line-height: 1.3;
+}
+li{
+    margin-bottom: 5px;
+}
+.motto{
+    text-align: center;
+    font-size:italic;
+    font-weight: bold;
+}
+.footer{
+    text-align: center;
+    color: aqua;
+}
